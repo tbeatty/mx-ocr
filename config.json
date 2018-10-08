@@ -1,0 +1,4 @@
+{
+  "batch_size": 5,
+  "output_path": "gs://mx-annotations"
+}
